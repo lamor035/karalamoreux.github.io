@@ -23,7 +23,7 @@ repository               : "karalamoreux/karalamoreux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/github_pfp_1.jpg"
+  avatar           : "github_pfp_1.jpg"
   name             : "Kara Lamoreux"
   pronouns         : "she/her"  
   bio              : "M.S. Student in Natural Resources Science and Management (Class '27)"
